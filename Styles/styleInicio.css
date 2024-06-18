@@ -38,7 +38,8 @@ main {
     margin-right: 20px;
 }
 .navbar nav ul li.logo img {
-    height: 150px;
+    margin-left: 30px;
+    height: 100px;
     width: auto; 
 }
 .navbar nav ul li.logo {
@@ -92,7 +93,7 @@ main {
 }
 
 footer {
-    background-color: #D2B4DE;
+    background-color: #2471A3;
     color: white;
     text-align: center;
     padding: 10px 0;
